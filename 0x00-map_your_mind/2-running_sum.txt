@@ -1,0 +1,11 @@
+function runningsum
+  sum=0
+  input number
+  while 
+    number is positive, sum=number
+ 	input number
+ else
+    stop input
+    print sum
+exit.
+  
