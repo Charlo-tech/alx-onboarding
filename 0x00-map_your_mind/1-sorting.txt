@@ -1,0 +1,7 @@
+function sortnumbers
+   input number1
+   input number2
+   input number3
+   Sort numbers in ascending order
+   print result
+exit.

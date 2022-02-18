@@ -1,0 +1,8 @@
+Function sumofsquares
+   input number 1
+   input number 2
+   square1= number 1*number 1
+   square2= number 2 * number 2
+   squaresum=square1+square2
+   print squaresum
+exit.
